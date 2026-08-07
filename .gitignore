@@ -1,0 +1,75 @@
+# Compiled Lisp files
+*.fasl
+*.fas
+*.fsl
+*.fso
+*.fasl
+*.lx64fsl
+*.dx64fsl
+*.lx32fsl
+*.dx32fsl
+*.lisp-temp
+
+# SBCL core dumps
+*.core
+core
+
+# Quicklisp local-projects (if you symlink)
+# Don't ignore the project itself, but ignore other local deps
+/quicklisp/
+
+# Checkpoints and persistence files
+/checkpoints/
+/golden-images/
+/persistence/
+*.checkpoint
+*.persist
+
+# Logs
+*.log
+/logs/
+/log/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.iml
+
+# Build artifacts
+/dist/
+/build/
+
+# Vault files (emergency)
+*.vault
+*.shred
+*.secure
+
+# Gossip mesh state
+/gossip-state/
+
+# Coverage and profiling
+*.prof
+*.coverage
+/profiling/
+
+# Test artifacts
+/test-results/
+/test-output/
+
+# Environment
+.env
+.env.local
+
+# Node modules (if any frontend)
+node_modules/

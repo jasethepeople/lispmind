@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+type: software
+title: "LISPMIND: An Autonomous, Self-Healing Multi-Agent Platform for Distributed System Resilience"
+abstract: >
+  LISPMIND is a research platform for autonomous, self-healing multi-agent
+  systems implemented in Common Lisp. It demonstrates novel techniques in
+  runtime strategy evolution, multi-tier fault tolerance, hardware-bound
+  credential management, and low-bandwidth distributed coordination within
+  a single, long-running Lisp image. The system combines genetic programming,
+  CLOS metaobject protocol hooks, kernel-level system monitoring, and
+  encrypted resource vaults to create an autonomous computing organism.
+authors:
+  - family-names: "LISPMIND Research Collective"
+    affiliation: "Independent Security Research"
+repository-code: "https://github.com/YOUR_USERNAME/lispmind"
+version: 2.5.1
+date-released: 2025-07-04
+keywords:
+  - autonomous agents
+  - self-healing systems
+  - genetic programming
+  - distributed resilience
+  - fault tolerance
+  - Common Lisp
+  - CLOS MOP
+  - multi-tier persistence
+  - encrypted vaults
+  - operational security
+license: MIT
