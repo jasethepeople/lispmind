@@ -1,5 +1,7 @@
 # LISPMIND: An Autonomous, Self-Healing Multi-Agent Platform for Distributed System Resilience
 
+https://youtube.com/shorts/7l13vO82CYc?si=iRa-A6GzdQfPZrL7
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **LISPMIND** is a research platform for autonomous, self-healing multi-agent systems implemented in ANSI Common Lisp. It demonstrates novel techniques in runtime strategy evolution, multi-tier fault tolerance, hardware-bound credential management, and low-bandwidth distributed coordination — all within a single, long-running Lisp image that maintains operational continuity without process restarts.
